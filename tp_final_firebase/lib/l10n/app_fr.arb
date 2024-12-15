@@ -1,0 +1,23 @@
+{
+  "appTitle": "Mon Application",
+  "matriculeLabel": "Matricule",
+  "nomLabel": "Nom",
+  "prenomLabel": "Prénom",
+  "courrielLabel": "Courriel",
+  "motDePasseLabel": "Mot de passe",
+  "connectButtonLabel": "Connexion",
+  "inscriptionButtonLabel": "Inscription",
+  "createAccountLabel": "Créer un compte",
+  "alreadyHaveAccountLabel": "J'ai déjà un compte",
+  "addImageButtonLabel": "Ajouter une image",
+  "addImageSnackbarMessage": "SVP Ajouter une image",
+  "matriculeErrorText": "Au moins 7 chiffres",
+  "nomErrorText": "Veuillez entrer un nom",
+  "prenomErrorText": "Veuillez entrer un prénom",
+  "courrielErrorText": "Veuillez entrer un courriel valide",
+  "motDePasseErrorText": "Veuillez entrer un mot de passe valide",
+  "bottomNavigationProfile": "Profil",
+  "bottomNavigationCalendar": "Calendrier",
+  "bottomNavigationSearch": "Recherche",
+  "bottomNavigationClassManagement": "Gestion de classe"
+}

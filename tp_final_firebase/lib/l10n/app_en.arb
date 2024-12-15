@@ -1,0 +1,23 @@
+{
+  "appTitle": "My App",
+  "matriculeLabel": "Matriculation",
+  "nomLabel": "Name",
+  "prenomLabel": "First Name",
+  "courrielLabel": "Email",
+  "motDePasseLabel": "Password",
+  "connectButtonLabel": "Connect",
+  "inscriptionButtonLabel": "Registration",
+  "createAccountLabel": "Create an Account",
+  "alreadyHaveAccountLabel": "I already have an account",
+  "addImageButtonLabel": "Add Image",
+  "addImageSnackbarMessage": "Please Add an Image",
+  "matriculeErrorText": "At least 7 digits",
+  "nomErrorText": "Please enter a name",
+  "prenomErrorText": "Please enter a first name",
+  "courrielErrorText": "Please enter a valid email",
+  "motDePasseErrorText": "Please enter a valid password",
+  "bottomNavigationProfile": "Profile",
+  "bottomNavigationCalendar": "Calendar",
+  "bottomNavigationSearch": "Search",
+  "bottomNavigationClassManagement": "Class Management"
+}
